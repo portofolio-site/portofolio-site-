@@ -1,0 +1,89 @@
+header-right {
+  list-style:none;
+}
+
+ul{
+  list-style:none;
+}
+
+li{
+  display:inline-block;
+  font-size:20px;
+  margin-right:5px;
+}
+
+.ab{
+  text-align:center;
+}
+
+.container{
+  width:1000px;
+
+  margin-left:100px;
+}
+
+.header-right ul{
+  float:right;
+}
+
+.header-left{
+  padding:50px 0 0 50px;
+}
+
+.pho{
+  width:200px;
+  height:200px;
+  border-radius:50%;
+}
+
+.phot{
+  height:250px;
+  width:250px;
+  float:left;
+  margin-left:150px;
+}
+
+.about{
+  height:400px;
+  padding-top:100px;
+}
+
+.ma{
+  float:left;
+  margin-left:50px;
+}
+
+
+.photo-a{
+  width:500px;
+  height:200px;
+}
+
+.skill{
+  margin-bottom:100px;
+}
+
+.skill h1{
+  text-align:center;
+}
+
+.cording{
+  width:500px;
+}
+
+.cording h2{
+  text-align:center;
+}
+
+.works img{
+  height:200px;
+  width:400px;
+}
+
+.works a{
+  margin-left:50px;
+}
+
+.wo{
+  text-align:center;
+}
